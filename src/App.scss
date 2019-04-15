@@ -1,0 +1,84 @@
+@media screen and (min-width: 320px) {
+  html {font-size: 14px;}
+}
+
+@media screen and (min-width: 360px) {
+  html {font-size: 16px;}
+}
+
+@media screen and (min-width: 400px) {
+  html {font-size: 18px;}
+}
+
+@media screen and (min-width: 440px) {
+  html {font-size: 20px;}
+}
+
+@media screen and (min-width: 480px) {
+  html {font-size: 22px;}
+}
+
+@media screen and (min-width: 640px) {
+  html {font-size: 28px;}
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.sub-title {
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+  margin: 10px;
+}
+
+.info {
+  font-size: 18px;
+  font-style: italic;
+}
+
+.btn-pane {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .action-btn {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    background: #dadada;
+  }
+  
+}
+
+.timer {
+  margin-top: 40px;
+  font-size: 50px;
+  font-weight: bold;
+  .time:not(:last-child)::after {
+    content: ":"
+  }
+}
+
+.chi-cont {
+  margin-top: 40px;
+  font-size: 50px;
+  font-weight: bold;
+  margin: 10px;
+}
