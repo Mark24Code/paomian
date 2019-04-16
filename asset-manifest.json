@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.fa956188.chunk.css",
-  "main.js": "/static/js/main.103ab202.chunk.js",
-  "main.js.map": "/static/js/main.103ab202.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.65aa1cca.chunk.js": "/static/js/2.65aa1cca.chunk.js",
-  "static/js/2.65aa1cca.chunk.js.map": "/static/js/2.65aa1cca.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.3849ce410349d7a91590eff412273382.js": "/precache-manifest.3849ce410349d7a91590eff412273382.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.fa956188.chunk.css.map": "/static/css/main.fa956188.chunk.css.map"
+  "main.css": "/paomian/static/css/main.fa956188.chunk.css",
+  "main.js": "/paomian/static/js/main.505a8077.chunk.js",
+  "main.js.map": "/paomian/static/js/main.505a8077.chunk.js.map",
+  "runtime~main.js": "/paomian/static/js/runtime~main.14c9d7d4.js",
+  "runtime~main.js.map": "/paomian/static/js/runtime~main.14c9d7d4.js.map",
+  "static/js/2.65aa1cca.chunk.js": "/paomian/static/js/2.65aa1cca.chunk.js",
+  "static/js/2.65aa1cca.chunk.js.map": "/paomian/static/js/2.65aa1cca.chunk.js.map",
+  "index.html": "/paomian/index.html",
+  "precache-manifest.f354f6cc8b84e579754a437a3eb1cd25.js": "/paomian/precache-manifest.f354f6cc8b84e579754a437a3eb1cd25.js",
+  "service-worker.js": "/paomian/service-worker.js",
+  "static/css/main.fa956188.chunk.css.map": "/paomian/static/css/main.fa956188.chunk.css.map"
 }
